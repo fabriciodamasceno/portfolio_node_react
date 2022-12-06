@@ -1,0 +1,24 @@
+{
+  "name": "portfolio_node_react",
+  "version": "1.0.0",
+  "description": "Portfólio Fabrício Damasceno",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "ReactJS",
+    "NodeJS",
+    "FullStack",
+    "DotNet",
+    "DevOps",
+    "Docker"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
